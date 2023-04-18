@@ -1,0 +1,13 @@
+*.gone
+*.pb.go
+*.pb.gw.go
+
+.vscode
+.vscode_envrc
+
+scratch
+tmp
+third_party/*.zip
+
+go.sum
+klutz.a
