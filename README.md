@@ -11,3 +11,5 @@ a clumsy, awkward, or foolish person.
 **<span style="font-variant:small-caps;">Origin</span>**
 
 1930s: from Yiddish **klots** ‘wooden block’.
+
+See the [Wiki](https://github.com/sobchak-security/klutz/wiki) for more information.

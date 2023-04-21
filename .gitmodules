@@ -1,0 +1,4 @@
+[submodule "klutz.wiki"]
+	path = klutz.wiki
+	url = ssgh:sobchak-security/klutz.wiki.git
+	branch = master

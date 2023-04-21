@@ -2,6 +2,7 @@
 *.pb.go
 *.pb.gw.go
 
+.DS_Store
 .vscode
 .vscode_envrc
 
